@@ -1,2 +1,3 @@
 # PythonIntro
 Quick Intro to Python 
+Required software, IDE's, etc...
